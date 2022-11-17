@@ -83,3 +83,13 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+.idea
+.DS_Store
+*/build
+captures
+.cxx
+xcuserdata/
+Pods/
+/androidApp/key
+*.jks
+*yarn.lock
